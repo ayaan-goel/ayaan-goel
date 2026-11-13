@@ -3,7 +3,7 @@
 # Hi, I'm Ayaan 👋
 
 <a href="https://github.com/ayaan-goel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=7F77DD&center=true&vCenter=true&width=480&height=32&lines=backend+developer;generative+AI+tinkerer;competitive+programmer;computer+engineering+%40+PDEU" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=7F77DD&center=true&vCenter=true&width=480&height=32&lines=full-stack+and+backend+developer;explainable+ML+tinkerer;competitive+programmer;computer+engineering+%40+PDEU" alt="Typing animation" />
 </a>
 
 <a href="https://www.linkedin.com/in/ayaan-goel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,24 +14,26 @@
 
 </div>
 
-Computer Engineering student at Pandit Deendayal Energy University. I build backends with clean APIs and solid access control, and I like experimenting with generative models on the side. Open to backend and AI/ML internships ✨
+Computer Engineering student at Pandit Deendayal Energy University. I build full-stack and backend systems that stay correct when many people use them at once, and I like explainable ML on the side. Open to backend and AI/ML internships ✨
 
 ## Tech stack
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,nodejs,express,mysql,sqlite,prisma,tensorflow,git,linux&perline=12" alt="Python, Java, C++, TypeScript, Node.js, Express, MySQL, SQLite, Prisma, TensorFlow, Git, Linux" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,nodejs,express,nestjs,nextjs,react,postgres,mysql,sqlite,prisma,git,githubactions,linux&perline=9" alt="Python, Java, C++, TypeScript, JavaScript, Node.js, Express, NestJS, Next.js, React, PostgreSQL, MySQL, SQLite, Prisma, Git, GitHub Actions, Linux" />
 
 ## Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [**WorkZen**](https://github.com/ayaan-goel/hrms-portal) | HRMS backend with attendance, leave and payroll for four roles, plus automatic PDF payslips | TypeScript, Node.js, MySQL, Prisma |
-| [**Expense Management System**](https://github.com/ayaan-goel/expense-management-system) | Expense API with a multi-level approval engine, OCR receipt scanning and multi-currency support | Node.js, Express, SQLite, JWT |
-| [**ResuMAGIC**](https://github.com/ayaan-goel/mined_24) | AI resume parser that extracts structured candidate details from messy resumes ([live demo](https://resumagic-codingrookies.streamlit.app/)) | Python, NLP, Streamlit |
+| [**Kitchen Ops**](https://github.com/ayaan-goel/kitchen-ops) | Full-stack panel that runs a lunch kitchen's whole day: ordering, cooking board, dispatch, driver view and company billing ([live](https://kitchen-ops-pied.vercel.app)) | Next.js, NestJS, PostgreSQL, Prisma |
+| [**WorkZen**](https://github.com/ayaan-goel/hrms-portal) | HR portal backend for four roles, with check-in, leave requests and automated monthly payroll | Node.js, TypeScript, MySQL, Prisma |
+| [**Expense Management System**](https://github.com/ayaan-goel/expense-management-system) | Expense-claim API that routes approvals by amount, reads receipts with OCR and converts currencies | Node.js, Express, SQLite, JWT |
+| [**ResuMAGIC**](https://github.com/ayaan-goel/mined_24) | Reads resumes in four formats and extracts education, work history and skills with chained Gemini prompts ([live](https://resumagic-codingrookies.streamlit.app/)) | Python, LangChain, Gemini, Streamlit |
 
 ## Highlights
 
-- 🥉 2nd Runner-Up, Startup Weekend 2024
+- 📄 Co-authored a paper on air pollution and pediatric respiratory admissions using explainable ML (XGBoost and SHAP), presented at ICEC2NT 2026
 - 💼 Development Intern (R&D) at StayinFront India, and Generative AI Intern at Prodigy InfoTech
+- 🥉 2nd Runner-Up, Startup Weekend 2024
 - 🧩 275+ problems on GeeksforGeeks (institute rank 18 of 1460), Codeforces rating 1228
 
 ## GitHub activity
