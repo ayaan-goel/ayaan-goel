@@ -1,0 +1,29 @@
+<svg width="360" height="230" viewBox="0 0 360 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Expense Management project card">
+<title>Expense Management</title>
+<defs>
+<linearGradient id="bg-expense-mgmt" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0F1923"/>
+<stop offset="1" stop-color="#1F2731"/>
+</linearGradient>
+<clipPath id="clip-expense-mgmt"><rect x="0" y="0" width="360" height="230" rx="10"/></clipPath>
+</defs>
+<g clip-path="url(#clip-expense-mgmt)">
+<rect width="360" height="230" fill="url(#bg-expense-mgmt)"/>
+<rect x="0" y="0" width="6" height="230" fill="#FF4655"/>
+<polygon points="290,0 360,0 360,70" fill="#FF4655" fill-opacity="0.12"/>
+<rect x="24" y="24" width="88" height="88" rx="10" fill="#0F1923" stroke="#5CDBD3" stroke-width="2"/>
+<image x="30" y="30" width="76" height="76" href="https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/displayicon.png"/>
+<text x="128" y="44" class="t">Expense Management</text>
+<text x="128" y="62" class="s">Agent: Killjoy / Sentinel</text>
+<text x="128" y="96" class="d">Expense-claim API: routes approvals by</text><text x="128" y="114" class="d">amount, OCR receipts, live currency</text><text x="128" y="132" class="d">rates.</text>
+<rect x="24" y="196" width="99" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="73.5" y="211" class="tag">Node.js</text><rect x="131" y="196" width="99" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="180.5" y="211" class="tag">Express</text><rect x="238" y="196" width="88" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="282.0" y="211" class="tag">SQLite</text><rect x="334" y="196" width="55" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="361.5" y="211" class="tag">JWT</text>
+<text x="336" y="211" text-anchor="end" class="link">code / live &#8599;</text>
+</g>
+<style>
+.t{font:700 17px 'Segoe UI',sans-serif;fill:#ECE8E1;}
+.s{font:600 11px 'Segoe UI',sans-serif;fill:#FF4655;letter-spacing:1px;text-transform:uppercase;}
+.d{font:400 13px 'Segoe UI',sans-serif;fill:#8B978F;}
+.tag{font:600 11px 'Segoe UI',sans-serif;fill:#5CDBD3;}
+.link{font:600 12px 'Segoe UI',sans-serif;fill:#5CDBD3;}
+</style>
+</svg>

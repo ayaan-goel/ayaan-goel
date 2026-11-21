@@ -1,0 +1,29 @@
+<svg width="360" height="230" viewBox="0 0 360 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kitchen Ops project card">
+<title>Kitchen Ops</title>
+<defs>
+<linearGradient id="bg-kitchen-ops" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0F1923"/>
+<stop offset="1" stop-color="#1F2731"/>
+</linearGradient>
+<clipPath id="clip-kitchen-ops"><rect x="0" y="0" width="360" height="230" rx="10"/></clipPath>
+</defs>
+<g clip-path="url(#clip-kitchen-ops)">
+<rect width="360" height="230" fill="url(#bg-kitchen-ops)"/>
+<rect x="0" y="0" width="6" height="230" fill="#FF4655"/>
+<polygon points="290,0 360,0 360,70" fill="#FF4655" fill-opacity="0.12"/>
+<rect x="24" y="24" width="88" height="88" rx="10" fill="#0F1923" stroke="#5CDBD3" stroke-width="2"/>
+<image x="30" y="30" width="76" height="76" href="https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png"/>
+<text x="128" y="44" class="t">Kitchen Ops</text>
+<text x="128" y="62" class="s">Agent: Brimstone / Controller</text>
+<text x="128" y="96" class="d">Runs a lunch kitchen&#x27;s whole day:</text><text x="128" y="114" class="d">ordering, cooking board, dispatch,</text><text x="128" y="132" class="d">driver view, billing.</text>
+<rect x="24" y="196" width="99" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="73.5" y="211" class="tag">Next.js</text><rect x="131" y="196" width="88" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="175.0" y="211" class="tag">NestJS</text><rect x="227" y="196" width="110" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="282.0" y="211" class="tag">Postgres</text><rect x="345" y="196" width="88" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="389.0" y="211" class="tag">Prisma</text>
+<text x="336" y="211" text-anchor="end" class="link">code / live &#8599;</text>
+</g>
+<style>
+.t{font:700 17px 'Segoe UI',sans-serif;fill:#ECE8E1;}
+.s{font:600 11px 'Segoe UI',sans-serif;fill:#FF4655;letter-spacing:1px;text-transform:uppercase;}
+.d{font:400 13px 'Segoe UI',sans-serif;fill:#8B978F;}
+.tag{font:600 11px 'Segoe UI',sans-serif;fill:#5CDBD3;}
+.link{font:600 12px 'Segoe UI',sans-serif;fill:#5CDBD3;}
+</style>
+</svg>

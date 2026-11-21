@@ -1,0 +1,33 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Agent select banner: Ayaan Goel as Sage">
+<title>Agent select: Sage</title>
+<defs>
+<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#0F1923"/>
+<stop offset="0.6" stop-color="#0F1923"/>
+<stop offset="1" stop-color="#1A2733"/>
+</linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#0F1923" stop-opacity="1"/>
+<stop offset="1" stop-color="#0F1923" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="hc"><rect width="900" height="260" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#hc)">
+<rect width="900" height="260" fill="url(#hbg)"/>
+<image x="420" y="-20" width="520" height="300" href="https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png" opacity="0.92" preserveAspectRatio="xMidYMid slice"/>
+<rect x="340" y="0" width="220" height="260" fill="url(#fade)"/>
+<rect x="0" y="0" width="8" height="260" fill="#FF4655"/>
+<text x="48" y="70" class="tag">AGENT SELECT</text>
+<text x="48" y="118" class="name">AYAAN GOEL</text>
+<text x="48" y="150" class="role">SAGE // THE SUPPORT</text>
+<rect x="48" y="172" width="360" height="2" fill="#FF4655"/>
+<text x="48" y="202" class="sub">Full-stack &amp; backend developer</text>
+<text x="48" y="224" class="sub">Explainable ML · Computer Engineering @ PDEU</text>
+</g>
+<style>
+.tag{font:700 13px 'Segoe UI',sans-serif;fill:#FF4655;letter-spacing:4px;}
+.name{font:800 42px 'Segoe UI',sans-serif;fill:#ECE8E1;letter-spacing:2px;}
+.role{font:700 16px 'Segoe UI',sans-serif;fill:#5CDBD3;letter-spacing:3px;}
+.sub{font:500 15px 'Segoe UI',sans-serif;fill:#8B978F;}
+</style>
+</svg>

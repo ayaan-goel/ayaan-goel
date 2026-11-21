@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png" width="110" alt="Sage icon" />
-
-# Ayaan Goel
-### Agent select: **SAGE** — the Support
+<img src="assets/hero.svg" width="100%" alt="Agent select: Ayaan Goel as Sage" />
 
 <a href="https://github.com/ayaan-goel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=5CDBD3&center=true&vCenter=true&width=480&height=32&lines=full-stack+%2B+backend+developer;healing+bugs%2C+walling+off+downtime;explainable+ML+main;computer+engineering+%40+PDEU" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=5CDBD3&center=true&vCenter=true&width=520&height=32&lines=full-stack+%2B+backend+developer;healing+bugs%2C+walling+off+downtime;explainable+ML+main;computer+engineering+%40+PDEU" alt="Typing animation" />
 </a>
 
 <a href="https://www.linkedin.com/in/ayaan-goel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -31,12 +28,20 @@ Computer Engineering student at Pandit Deendayal Energy University. I build full
 
 ## Match history (projects)
 
-| Agent pick | Objective | Loadout |
-| --- | --- | --- |
-| [**Kitchen Ops**](https://github.com/ayaan-goel/kitchen-ops) | Full-stack panel that runs a lunch kitchen's whole day: ordering, cooking board, dispatch, driver view and billing ([live](https://kitchen-ops-pied.vercel.app)) | Next.js, NestJS, PostgreSQL, Prisma |
-| [**WorkZen**](https://github.com/ayaan-goel/hrms-portal) | HR portal backend for four roles, with check-in, leave requests and automated monthly payroll | Node.js, TypeScript, MySQL, Prisma |
-| [**Expense Management System**](https://github.com/ayaan-goel/expense-management-system) | Expense-claim API that routes approvals by amount, reads receipts with OCR and converts currencies | Node.js, Express, SQLite, JWT |
-| [**ResuMAGIC**](https://github.com/ayaan-goel/mined_24) | Reads resumes in four formats and extracts education, work history and skills with chained Gemini prompts ([live](https://resumagic-codingrookies.streamlit.app/)) | Python, LangChain, Gemini, Streamlit |
+<table>
+<tr>
+<td><img src="assets/project-kitchen-ops.svg" width="100%" alt="Kitchen Ops" /><br/><sub><a href="https://github.com/ayaan-goel/kitchen-ops">code</a> · <a href="https://kitchen-ops-pied.vercel.app">live ↗</a></sub></td>
+<td><img src="assets/project-workzen.svg" width="100%" alt="WorkZen" /><br/><sub><a href="https://github.com/ayaan-goel/hrms-portal">code ↗</a></sub></td>
+</tr>
+<tr>
+<td><img src="assets/project-expense-mgmt.svg" width="100%" alt="Expense Management System" /><br/><sub><a href="https://github.com/ayaan-goel/expense-management-system">code ↗</a></sub></td>
+<td><img src="assets/project-resumagic.svg" width="100%" alt="ResuMAGIC" /><br/><sub><a href="https://github.com/ayaan-goel/mined_24">code</a> · <a href="https://resumagic-codingrookies.streamlit.app/">live ↗</a></sub></td>
+</tr>
+<tr>
+<td><img src="assets/project-heritage3d.svg" width="100%" alt="heritage3D" /><br/><sub><a href="https://github.com/ayaan-goel/heritage3d">code ↗</a></sub></td>
+<td><img src="assets/project-ml-heart-disease.svg" width="100%" alt="ML Heart Disease" /><br/><sub><a href="https://github.com/ayaan-goel/ml-heart-disease">code ↗</a></sub></td>
+</tr>
+</table>
 
 ## Agent contracts (highlights)
 
