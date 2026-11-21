@@ -20,7 +20,7 @@ Computer Engineering student at Pandit Deendayal Energy University. I build full
 
 - 🧱 **Barrier Orb** — systems that stay correct under concurrent load
 - 💚 **Healing Orb** — compile-and-fix tooling that repairs broken builds automatically
-- 🐾 **Slow Orb** — explainable ML, so nothing moves without a reason
+- 🧊 **Slow Orb** — explainable ML, so nothing moves without a reason
 
 ## Loadout (tech stack)
 

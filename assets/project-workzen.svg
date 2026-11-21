@@ -15,8 +15,7 @@
 <text x="128" y="44" class="t">WorkZen</text>
 <text x="128" y="62" class="s">Agent: Cypher / Sentinel</text>
 <text x="128" y="96" class="d">HR portal backend for four roles:</text><text x="128" y="114" class="d">check-in, leave requests, automated</text><text x="128" y="132" class="d">payroll.</text>
-<rect x="24" y="196" width="99" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="73.5" y="211" class="tag">Node.js</text><rect x="131" y="196" width="132" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="197.0" y="211" class="tag">TypeScript</text><rect x="271" y="196" width="77" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="309.5" y="211" class="tag">MySQL</text><rect x="356" y="196" width="88" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="400.0" y="211" class="tag">Prisma</text>
-<text x="336" y="211" text-anchor="end" class="link">code / live &#8599;</text>
+<rect x="24" y="196" width="64" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="56.0" y="211" text-anchor="middle" class="tag">Node.js</text><rect x="96" y="196" width="84" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="138.0" y="211" text-anchor="middle" class="tag">TypeScript</text><rect x="188" y="196" width="51" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="213.5" y="211" text-anchor="middle" class="tag">MySQL</text><rect x="247" y="196" width="58" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="276.0" y="211" text-anchor="middle" class="tag">Prisma</text>
 </g>
 <style>
 .t{font:700 17px 'Segoe UI',sans-serif;fill:#ECE8E1;}

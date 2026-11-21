@@ -15,8 +15,7 @@
 <text x="128" y="44" class="t">ML Heart Disease</text>
 <text x="128" y="62" class="s">Agent: Sage / Sentinel</text>
 <text x="128" y="96" class="d">Classical ML models to predict heart</text><text x="128" y="114" class="d">disease risk from patient clinical data.</text>
-<rect x="24" y="196" width="88" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="68.0" y="211" class="tag">Python</text><rect x="120" y="196" width="154" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="197.0" y="211" class="tag">scikit-learn</text><rect x="282" y="196" width="88" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="326.0" y="211" class="tag">Pandas</text>
-<text x="336" y="211" text-anchor="end" class="link">code / live &#8599;</text>
+<rect x="24" y="196" width="58" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="53.0" y="211" text-anchor="middle" class="tag">Python</text><rect x="90" y="196" width="97" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="138.5" y="211" text-anchor="middle" class="tag">scikit-learn</text><rect x="195" y="196" width="58" height="22" rx="4" fill="#1F2731" stroke="#FF4655" stroke-opacity="0.4"/><text x="224.0" y="211" text-anchor="middle" class="tag">Pandas</text>
 </g>
 <style>
 .t{font:700 17px 'Segoe UI',sans-serif;fill:#ECE8E1;}
